@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Somanath Mishra</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Developer;Machine+Learning+Engineer;FastAPI+%7C+RAG+%7C+LLMs;Open+to+Work" />
+</p>
+
+<h3 align="center">AI Engineer | Generative AI | Machine Learning</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Graduate in Computer Science Engineering (AI & ML)
+- 🤖 Building AI Applications using LLMs, RAG, FastAPI & Agentic Workflows
+- 🌱 Continuously learning and exploring emerging AI technologies
+- 💼 Open to AI Engineer, Generative AI and Machine Learning roles
+- 📍 India
+
 # 🛠️ Tech Arsenal
 
 ## 💻 Languages
